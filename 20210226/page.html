@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        #eye:hover {
+            fill: blue;
+        }
+
+        #saber:hover {
+            stroke: blue;
+        }
+
+        }
+    </style>
+</head>
+
+<body>
+  
+    <div id="darth">
+        <svg height="1000" width="2000">
+            <polygon points="250,180 100,400 400,400" class="triangle" fill="black" transform="scale(2)" />
+            <circle cx="250" cy="250" r="220" stroke="black" fill="redblack" transform="translate(250, 327)" />
+            <polygon points="250,180 100,400 400,400" class="triangle" fill="DarkGrey"
+                transform="translate(250, 400)" />
+            <circle id="eye" cx="50" cy="50" r="30" stroke="black" stroke-width="10" fill="red"
+                transform="translate(360, 500)" />
+            <circle id="eye" cx="50" cy="50" r="30" stroke="black" stroke-width="10" fill="red"
+                transform="translate(540, 500)" />
+            <g id="fullsaber"> 
+                <rect id="saber" x="0" y="0" width="20" height="700" fill="white" stroke="red" stroke-width="10"
+                    stroke-linecap="round" transform="translate(800, 100)" />
+                <rect x="0" y="0" width="20" height="100" fill="DarkGrey" stroke="black" stroke-width="10"
+                    stroke-linecap="round" transform="translate(800, 700)" />
+            </g>
+            <text x="120" y="80" transform="translate(150, 250)" font-size="50">Henlo luke, sa va ? </text>
+        </svg>
+    </div>
+
+    <script>
+
+function setTime() {
+    const rotateDegs = 10;
+    globe.style.transform = `rotate(${rotateDegs}deg)`;
+}
+
+const globe = document.querySelector(".logo");
+
+setInterval(setTime, 200); 
+
+let val = 0;
+
+rotateItem = item => {
+    item.style.transform = "rotate(" + val + "deg)";
+    item.style.webkitTransform = "rotate(" + val + "deg)";
+    item.style.mozTransform = "rotate(" + val + "deg)";
+    val += 10; 
+}
+setInterval(() => rotateItem(document.getElementById('fullsaber'), 0) , 100);
+
+
+    </script>
+
+</body>
+
+</html>
