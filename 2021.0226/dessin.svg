@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+<polygon points="250,180 100,400 400,400" class="triangle" fill="black" transform="scale(2.0)" />
+<circle cx="250" cy="250" r="220" stroke="black"  fill="redblack" transform="translate(250, 327)" />
+<polygon points="250,180 100,400 400,400" class="triangle" fill="DarkGrey" transform="translate(250, 400)" />
+<circle cx="50" cy="50" r="30" stroke="black" stroke-width="10" fill="red" transform="translate(360, 500)" />
+<circle cx="50" cy="50" r="30" stroke="black" stroke-width="10" fill="red" transform="translate(540, 500)" />
+<rect x="0" y="0" width="20" height="700" fill="white" stroke="red" stroke-width="10" stroke-linecap="round" transform="translate(800, 100)"/>
+<rect x="0" y="0" width="20" height="100" fill="DarkGrey" stroke="black" stroke-width="10" stroke-linecap="round" transform="translate(800, 700)"/>
+  <text x="120" y="80" transform="translate(150, 250)" font-size="50">Henlo luke, sa va ? </text>
+
+</svg>
