@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://unpkg.com/billboard.js@3.0.2/dist/billboard.min.css" />
+    <script src="https://unpkg.com/billboard.js@3.0.2/dist/billboard.pkgd.min.js"></script>
+  </head>
+  <body>
+    <div id="graph"></div>
+    <script>
+ const data = [
+            {
+                "Ville": "Aigle",
+                "DTV": 6800
+            },
+            {
+                "Ville": "Allaman",
+                "DTV": 3400
+            },
+            {
+                "Ville": "Avenches",
+                "DTV": 700
+            },
+            {
+                "Ville": "Arnex",
+                "DTV": 190
+            }
+        ]
+
+        bb.generate({
+            bindto: "#graph",
+            data: {
+                type: "bar",
+                json:{"DTV des villes vaudoise commençant par A":data.map(d=>d.DTV)}
+            },
+            axis: {
+                x: {
+                    type: 'category',
+                    categories: data.map(({ Ville }) => Ville),
+                }
+            },
+        })
+    </script>
+  </body>
+</html>

@@ -1,0 +1,19 @@
+<svg width="1350" height="1350" xmlns="http://www.w3.org/2000/svg">
+<defs>
+    <filter id="noise4">
+        <feTurbulence baseFrequency="0.06"/>
+        <feDisplacementMap in="SourceGraphic" scale="13"/>
+   </filter>
+   <pattern id="kwait" patternUnits="userSpaceOnUse" width="20" height="20">
+<path d="M 0,20 l 20,-20 M -5,5 l 10,-10 M 15,25 l 10,-10" stroke-width="0.8" shape-rendering="auto" stroke="red" stroke-linecap="square"></path>
+</pattern>
+</defs>
+<polygon points="250,180 100,400 400,400" class="triangle" fill="black" transform="scale(2)" />
+<circle cx="250" cy="250" r="220" stroke="black"  fill="redblack" transform="translate(250, 327)" />
+<polygon points="250,180 100,400 400,400" class="triangle" fill="DarkGrey" transform="translate(250, 400)" />
+<circle cx="50" cy="50" r="30" stroke="black" stroke-width="10" fill="url(#kwait)" transform="translate(360, 500)" />
+<circle cx="50" cy="50" r="30" stroke="black" stroke-width="10" fill="url(#kwait)" transform="translate(540, 500)" />
+<rect filter="url(#noise4)" x="0" y="0" width="20" height="700" fill="white" stroke="red" stroke-width="10" stroke-linecap="round" transform="translate(800, 100)"/>
+<rect x="0" y="0" width="20" height="100" fill="DarkGrey" stroke="black" stroke-width="10" stroke-linecap="round" transform="translate(800, 700)"/>
+<text x="120" y="80" transform="translate(150, 250)" font-size="50">Henlo luke, sa va ? </text>
+</svg>
