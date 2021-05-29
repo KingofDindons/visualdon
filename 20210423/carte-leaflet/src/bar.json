@@ -1,0 +1,3391 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-04-23T12:03:32Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/286904938",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "La Diablotine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1586101,
+          46.3500952
+        ]
+      },
+      "id": "node/286904938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/315489638",
+        "amenity": "bar",
+        "name": "The Blu' Sky Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.336213,
+          46.5313955
+        ]
+      },
+      "id": "node/315489638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/321986249",
+        "amenity": "bar",
+        "name": "Au Diablevin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1577763,
+          46.3495302
+        ]
+      },
+      "id": "node/321986249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/370383062",
+        "amenity": "bar",
+        "name": "Café-Bar l'Indigo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8409427,
+          46.4613813
+        ]
+      },
+      "id": "node/370383062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/387737584",
+        "addr:street": "Rue de Lausanne",
+        "amenity": "bar",
+        "level": "0",
+        "name": "BigBen",
+        "opening_hours": "Su,Mo 15:00-24:00, Tu,We 11:00-24:00, Th 11:00-01:00, Fr,Sa 11:00-02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.580527,
+          46.5370914
+        ]
+      },
+      "id": "node/387737584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/412723853",
+        "amenity": "bar",
+        "name": "Correct Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.837281,
+          46.4663089
+        ]
+      },
+      "id": "node/412723853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/428933782",
+        "amenity": "bar",
+        "name": "Caveau des Vignerons",
+        "opening_hours": "\"Ouverture selon la saison.\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7309357,
+          46.4877959
+        ]
+      },
+      "id": "node/428933782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/439996215",
+        "amenity": "bar",
+        "name": "(Kebab)",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5709448,
+          46.7094926
+        ]
+      },
+      "id": "node/439996215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/461616876",
+        "amenity": "bar",
+        "name": "Italian Bar",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8993122,
+          46.5276348
+        ]
+      },
+      "id": "node/461616876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/467092405",
+        "amenity": "bar",
+        "name": "Crazy Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.507924,
+          46.6136599
+        ]
+      },
+      "id": "node/467092405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/495167265",
+        "amenity": "bar",
+        "name": "Poisson county club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5322575,
+          46.722813
+        ]
+      },
+      "id": "node/495167265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/495167268",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.53242,
+          46.7231578
+        ]
+      },
+      "id": "node/495167268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/497376101",
+        "amenity": "bar",
+        "name": "Charlies Place",
+        "url": "http://www.charliesplace.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6374295,
+          46.5196658
+        ]
+      },
+      "id": "node/497376101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/563286953",
+        "amenity": "bar",
+        "name": "Le Mondial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1540051,
+          46.8064845
+        ]
+      },
+      "id": "node/563286953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/563877124",
+        "amenity": "bar",
+        "name": "TM",
+        "phone": "+41 26 321 53 81",
+        "wheelchair": "yes",
+        "wheelchair:description": "Il y a un ascenseur sur le côté du bâtiment. Appeler pour qu'ils ouvrent la porte de secours There is a lift on the side of the building. Call and they will open the exit door"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1543375,
+          46.8045969
+        ]
+      },
+      "id": "node/563877124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/563877172",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Cuba bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1552916,
+          46.8051079
+        ]
+      },
+      "id": "node/563877172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/603738539",
+        "amenity": "bar",
+        "name": "Movida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.625985,
+          46.5231277
+        ]
+      },
+      "id": "node/603738539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/622374114",
+        "amenity": "bar",
+        "name": "Diamant vert",
+        "note": "Was known as the \"Stadium\".",
+        "outdoor_seating": "yes",
+        "phone": "+41216522023",
+        "smoking": "outside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.64743,
+          46.5337434
+        ]
+      },
+      "id": "node/622374114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/809024245",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5941573,
+          46.4011725
+        ]
+      },
+      "id": "node/809024245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/877504069",
+        "amenity": "bar",
+        "name": "Le Staff",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3530738,
+          46.7707777
+        ]
+      },
+      "id": "node/877504069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/879439108",
+        "amenity": "bar",
+        "name": "Il Bibbo",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6038643,
+          46.5871514
+        ]
+      },
+      "id": "node/879439108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/895374406",
+        "amenity": "bar",
+        "cuisine": "tapas",
+        "name": "Olé Tapas",
+        "website": "https://www.ole-tapas.ch/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6386616,
+          46.7798623
+        ]
+      },
+      "id": "node/895374406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/912295261",
+        "amenity": "bar",
+        "email": "bar@baseconcept.ch",
+        "fax": "+41 21 625 56 82",
+        "name": "Le Base Bar",
+        "phone": "+41 21 625 56 81",
+        "smoking": "no",
+        "website": "http://www.baseconcept.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6191248,
+          46.5228746
+        ]
+      },
+      "id": "node/912295261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/912520467",
+        "amenity": "bar",
+        "name": "Mombassa Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6278242,
+          46.5234405
+        ]
+      },
+      "id": "node/912520467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/919711603",
+        "amenity": "bar",
+        "name": "The Spirit Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6296466,
+          46.5235029
+        ]
+      },
+      "id": "node/919711603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1049616451",
+        "amenity": "bar",
+        "name": "La Clef"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6386574,
+          46.5183061
+        ]
+      },
+      "id": "node/1049616451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1129155319",
+        "addr:housenumber": "3",
+        "addr:postcode": "1003",
+        "addr:street": "Rue de la Grotte",
+        "amenity": "bar",
+        "name": "QWERTZ",
+        "opening_hours": "Tu-Th 17:00-24:00; Fr,Sa 17:00-02:00",
+        "payment:bitcoin": "yes",
+        "website": "http://www.standardcafe.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6340684,
+          46.5183958
+        ]
+      },
+      "id": "node/1129155319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1159975445",
+        "amenity": "bar",
+        "name": "Auberge Communale de Cessy",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0688223,
+          46.3163
+        ]
+      },
+      "id": "node/1159975445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1207861911",
+        "amenity": "bar",
+        "name": "Alambic Lounge Bar",
+        "opening_hours": "Mo-Th 08:00-23:45, Fr-Sa 08:00-01:00, Su 09:00-23:00",
+        "outdoor_seating": "yes",
+        "website": "https://www.alambic-loungebar.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4981989,
+          46.508777
+        ]
+      },
+      "id": "node/1207861911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1265905064",
+        "addr:city": "Lausanne",
+        "addr:housenumber": "22",
+        "addr:postcode": "1003",
+        "addr:street": "Avenue de la Gare",
+        "amenity": "bar",
+        "food": "yes",
+        "name": "Les Gosses du Québec",
+        "opening_hours": "10:00-01:00",
+        "outdoor_seating": "no",
+        "phone": "+41 21 323 28 28",
+        "smoking": "no",
+        "website": "http://www.facebook.com/LesGossesDuQuebecPub",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.63305,
+          46.51719
+        ]
+      },
+      "id": "node/1265905064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1319947886",
+        "amenity": "bar",
+        "contact:facebook": "https://fr-fr.facebook.com/Les-Grandes-Roches-1209672329132047",
+        "contact:instagram": "https://www.instagram.com/lesgrandesroches/",
+        "email": "info@lesgrandesroches.ch",
+        "internet_access": "no",
+        "internet_access:fee": "no",
+        "name": "Les Grandes Roches",
+        "old_name": "Bourg-Plage",
+        "opening_hours": "Mo-Sa 11:30-00:00; Su 14:00-00:00",
+        "smoking": "yes",
+        "website": "http://lesgrandesroches.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6358996,
+          46.521448
+        ]
+      },
+      "id": "node/1319947886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1369659032",
+        "addr:city": "Fribourg",
+        "addr:country": "CH",
+        "addr:housenumber": "3",
+        "addr:postcode": "1700",
+        "addr:street": "Avenue de Tivoli",
+        "amenity": "bar",
+        "email": "info@xxe.ch",
+        "name": "Le Café XX",
+        "opening_hours": "Mo 06:45-00:00; Tu-Th 06:45-01:00; Fr 06:45-03:00; Sa 11:00-03:00; Su 14:00-00:00",
+        "website": "http://www.xxe.ch",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.152201,
+          46.804327
+        ]
+      },
+      "id": "node/1369659032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1369659965",
+        "amenity": "bar",
+        "contact:email": "info@cafeanciennegare.ch",
+        "contact:phone": "+4126 322 57 72",
+        "contact:website": "http://www.anciennegare.ch",
+        "name": "Ancienne Gare",
+        "opening_hours": "Mo-Th 06:30-23:30; Fr 06:30-03:00 Sa 10:00-03:00; Su 09:00-23:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1503768,
+          46.802203
+        ]
+      },
+      "id": "node/1369659965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1371307468",
+        "amenity": "bar",
+        "int_name": "Pink Beach",
+        "name": "Pink Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6208274,
+          46.5209948
+        ]
+      },
+      "id": "node/1371307468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1454713729",
+        "amenity": "bar",
+        "name": "Le Splendide"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4987176,
+          46.5101281
+        ]
+      },
+      "id": "node/1454713729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1619733290",
+        "amenity": "bar",
+        "name": "Cham's Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.153192,
+          46.3522835
+        ]
+      },
+      "id": "node/1619733290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1635786587",
+        "addr:city": "Lausanne",
+        "addr:housenumber": "7",
+        "addr:postcode": "1003",
+        "addr:street": "Place de l'Europe",
+        "amenity": "bar",
+        "name": "N2O",
+        "website": "http://www.n2o-bar.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6298789,
+          46.5203132
+        ]
+      },
+      "id": "node/1635786587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1672507665",
+        "amenity": "bar",
+        "name": "La Blonde"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1622428,
+          46.805695
+        ]
+      },
+      "id": "node/1672507665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758963853",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.592399,
+          46.4013535
+        ]
+      },
+      "id": "node/1758963853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1759741223",
+        "amenity": "bar",
+        "name": "Buddah Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5977205,
+          46.4012986
+        ]
+      },
+      "id": "node/1759741223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1796162574",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6044714,
+          46.3932449
+        ]
+      },
+      "id": "node/1796162574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1856886339",
+        "addr:housenumber": "7",
+        "addr:street": "Rue Beau-Séjour",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Bar Tabac",
+        "opening_hours": "Mo-We 07:00-21:00; Th 07:00-01:00; Fr 07:00-02:00; Sa 09:00-02:00",
+        "outdoor_seating": "yes",
+        "phone": "+41 21 3123316",
+        "smoking": "outside",
+        "source": "http://www.bartabac.ch",
+        "website": "http://www.bartabac.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6348675,
+          46.5180673
+        ]
+      },
+      "id": "node/1856886339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1894582584",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.531624,
+          46.7251341
+        ]
+      },
+      "id": "node/1894582584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1929501358",
+        "amenity": "bar",
+        "name": "Le Deck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7734065,
+          46.4799374
+        ]
+      },
+      "id": "node/1929501358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1946668800",
+        "addr:housename": "5",
+        "addr:street": "rue Plantour",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Le Casino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9693156,
+          46.3169466
+        ]
+      },
+      "id": "node/1946668800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1946676488",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Red Ship Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9687497,
+          46.3185379
+        ]
+      },
+      "id": "node/1946676488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1975299515",
+        "amenity": "bar",
+        "name": "La Quenouille"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3367081,
+          46.4708301
+        ]
+      },
+      "id": "node/1975299515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2030274145",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.428123,
+          46.5513555
+        ]
+      },
+      "id": "node/2030274145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2037274277",
+        "amenity": "bar",
+        "name": "La Potinière",
+        "smoking": "separated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0563275,
+          46.6176566
+        ]
+      },
+      "id": "node/2037274277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2073532980",
+        "addr:city": "Morges",
+        "addr:country": "CH",
+        "addr:housenumber": "55",
+        "addr:postcode": "1110",
+        "addr:street": "Rue des Fossés",
+        "amenity": "bar",
+        "name": "L'Inpasse",
+        "phone": "+41 79 235 06 58",
+        "website": "https://www.linpasse.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4970112,
+          46.508732
+        ]
+      },
+      "id": "node/2073532980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2150481391",
+        "amenity": "bar",
+        "name": "Taverne du Grand Tétras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1923098,
+          46.7104152
+        ]
+      },
+      "id": "node/2150481391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2167334877",
+        "addr:housenumber": "1",
+        "addr:street": "Place Benjamin-Constant",
+        "amenity": "bar",
+        "name": "Café Saint Pierre",
+        "operator": "Soulfood SA",
+        "phone": "+41 (0) 21 323 36 36",
+        "website": "https://www.cafesaintpierre.ch/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6371424,
+          46.5193539
+        ]
+      },
+      "id": "node/2167334877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2269749206",
+        "amenity": "bar",
+        "name": "Café du Poids",
+        "source": "STILV",
+        "wifi": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8395223,
+          46.7085384
+        ]
+      },
+      "id": "node/2269749206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2271336949",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8372013,
+          46.7085896
+        ]
+      },
+      "id": "node/2271336949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2276580412",
+        "amenity": "bar",
+        "noname": "yes",
+        "opening_hours:signed": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3739049,
+          46.7096366
+        ]
+      },
+      "id": "node/2276580412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2313103808",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.424829,
+          46.3596718
+        ]
+      },
+      "id": "node/2313103808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2350751343",
+        "amenity": "bar",
+        "name": "Le Café Enning"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6375251,
+          46.5200358
+        ]
+      },
+      "id": "node/2350751343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2362523857",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3464239,
+          46.4614363
+        ]
+      },
+      "id": "node/2362523857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2487563826",
+        "addr:city": "Aigle",
+        "addr:housenumber": "8",
+        "addr:postcode": "1860",
+        "addr:street": "Route Industrielle",
+        "amenity": "bar",
+        "name": "Black Bird Bar Cafe",
+        "phone": "+41 24 466 46 01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.939497,
+          46.3152578
+        ]
+      },
+      "id": "node/2487563826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2627064812",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2313259,
+          46.606118
+        ]
+      },
+      "id": "node/2627064812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2627177499",
+        "amenity": "bar",
+        "name": "La Maiz'on",
+        "phone": "+41 21 845 51 81",
+        "website": "https://www.lamaizon.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2313924,
+          46.6070912
+        ]
+      },
+      "id": "node/2627177499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2667902419",
+        "amenity": "bar",
+        "name": "Billard Le Break"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6322085,
+          46.6416521
+        ]
+      },
+      "id": "node/2667902419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2673005709",
+        "amenity": "bar",
+        "name": "Aux Reflets des Isles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6076532,
+          46.5274802
+        ]
+      },
+      "id": "node/2673005709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2725720070",
+        "amenity": "bar",
+        "name": "Le Flore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4794292,
+          46.3718557
+        ]
+      },
+      "id": "node/2725720070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2817482601",
+        "addr:city": "Bulle",
+        "addr:housenumber": "30",
+        "addr:postcode": "1630",
+        "addr:street": "Grand-Rue",
+        "amenity": "bar",
+        "contact:email": "miguel@melocoton.ch",
+        "contact:phone": "+41 26 912 22 55",
+        "contact:website": "http://www.melocoton.ch",
+        "name": "Melocoton Club",
+        "opening_hours": "Th 23:00-02:00; Fr-Sa 23:00-04:00",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0576978,
+          46.6189295
+        ]
+      },
+      "id": "node/2817482601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2859804421",
+        "amenity": "bar",
+        "name": "Terrasse de la Pichette",
+        "opening_hours": "Apr-Oct",
+        "phone": "+41 21 921 07 20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8098437,
+          46.4704686
+        ]
+      },
+      "id": "node/2859804421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2958585991",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2863363,
+          46.3553103
+        ]
+      },
+      "id": "node/2958585991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2967542686",
+        "addr:housenumber": "2",
+        "addr:street": "Avenue du Tribunal-Fédéral",
+        "amenity": "bar",
+        "craft": "brewery",
+        "name": "Les Boucaniers",
+        "opening_hours": "Mo 08:30-20:00;Tu-We 08:30-00:00;Th08:30-01:00;Fr 08:30-02:00;Sa 11:00-02:00",
+        "phone": "+41 (0) 21 320 02 02",
+        "website": "http://www.lesboucaniers.ch",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6382225,
+          46.5195172
+        ]
+      },
+      "id": "node/2967542686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2967566872",
+        "addr:housenumber": "62",
+        "addr:street": "Rue du Valentin",
+        "amenity": "bar",
+        "name": "PiBar",
+        "opening_hours": "Tu-Th 18:00-00:00;Fr-Sa 18:00-02:00",
+        "phone": "+41 (0) 21 646 02 28",
+        "smoking": "outside",
+        "website": "http://www.pibar.ch/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6311819,
+          46.527804
+        ]
+      },
+      "id": "node/2967566872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2967693770",
+        "addr:housenumber": "31",
+        "addr:street": "Rue Marterey",
+        "amenity": "bar",
+        "name": "Pin-Up Bar",
+        "opening_hours": "Mo-Th 15:00-00:00;Fr 15:00-01:00;Sa 16:00-02:00",
+        "phone": "+41 (0) 21 311 33 33",
+        "website": "http://pinupbar.tumblr.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6399007,
+          46.5213528
+        ]
+      },
+      "id": "node/2967693770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3039171059",
+        "amenity": "bar",
+        "source": "survey 2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5026748,
+          46.4010626
+        ]
+      },
+      "id": "node/3039171059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3426925915",
+        "amenity": "bar",
+        "name": "Café Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5837232,
+          46.539267
+        ]
+      },
+      "id": "node/3426925915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3426925916",
+        "amenity": "bar",
+        "name": "Club Lusitano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5838163,
+          46.5393012
+        ]
+      },
+      "id": "node/3426925916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3578326057",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "32",
+        "addr:postcode": "1400",
+        "addr:street": "Avenue des Sports",
+        "amenity": "bar",
+        "name": "Bowling Yverdon - Saint-Rock Café",
+        "opening_hours": "Mo-Th 14:00-00:00; Fr-Sa 14:00-02:00; Su 14:00-19:00",
+        "phone": "+41 24 426 24 14",
+        "sport": "9pin",
+        "toilets:wheelchair": "no",
+        "website": "https://www.bowlingyverdon.ch/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6488607,
+          46.7811198
+        ]
+      },
+      "id": "node/3578326057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3638736055",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:country": "CH",
+        "addr:housenumber": "3",
+        "addr:postcode": "1400",
+        "addr:street": "Rue de la Maison-Rouge",
+        "amenity": "bar",
+        "name": "Johny Bar",
+        "opening_hours": "Mo-We 06:30-24:00, Th 06:30-01:00, Fr 06:30-02:00, Sa 07:30-02:00",
+        "outdoor_seating": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6422551,
+          46.7784441
+        ]
+      },
+      "id": "node/3638736055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3662931825",
+        "amenity": "bar",
+        "name": "Barawine",
+        "outdoor_seating": "yes",
+        "website": "https://www.facebook.com/barawine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2393681,
+          46.3821901
+        ]
+      },
+      "id": "node/3662931825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3667337169",
+        "amenity": "bar",
+        "food": "no",
+        "name": "Rockies"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6362426,
+          46.5202597
+        ]
+      },
+      "id": "node/3667337169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3671584957",
+        "amenity": "bar",
+        "name": "BDS Cocktail Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6832747,
+          46.5603808
+        ]
+      },
+      "id": "node/3671584957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3680257025",
+        "addr:housenumber": "10",
+        "addr:street": "Place de la Riponne",
+        "amenity": "bar",
+        "name": "Blackbird Social Club",
+        "opening_hours": "Mo-Tu 11:00-00:00; We 08:00-00:00; Th 11:00-01:00; Fr 11:00-02:00; Sa 08:00-02:00; Su 16:00-00:00",
+        "website": "http://blackbirdsocialclub.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6329492,
+          46.5241866
+        ]
+      },
+      "id": "node/3680257025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3687479917",
+        "addr:street": "Jetée de la Compagnie",
+        "amenity": "bar",
+        "cuisine": "regional",
+        "name": "Jetée de la compagnie",
+        "opening_hours": "Mo-Fr 11:30-22:00; Sa-Su 10:00-22:00",
+        "operator": "I lake Lausanne",
+        "website": "http://ilakelausanne.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6167349,
+          46.5084811
+        ]
+      },
+      "id": "node/3687479917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3687479954",
+        "amenity": "bar",
+        "name": "abc",
+        "opening_hours": "Th-Sa 22:00-05:00",
+        "operator": "D! Club",
+        "website": "http://www.barclub-abc.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6311501,
+          46.5209699
+        ]
+      },
+      "id": "node/3687479954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3699747398",
+        "amenity": "bar",
+        "name": "Saloon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.013184,
+          46.3427407
+        ]
+      },
+      "id": "node/3699747398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3703483122",
+        "amenity": "bar",
+        "name": "Le Corso",
+        "opening_hours": "Mo-Th 08:30-23:30; Fr 08:30-00:00; Sa 09:00-00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1520125,
+          46.8004553
+        ]
+      },
+      "id": "node/3703483122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3721891923",
+        "amenity": "bar",
+        "name": "Salon de la gare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5797927,
+          46.5377872
+        ]
+      },
+      "id": "node/3721891923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3727878239",
+        "addr:city": "Vevey",
+        "addr:country": "CH",
+        "addr:housenumber": "12",
+        "addr:postcode": "1800",
+        "addr:street": "Rue des Jardins",
+        "amenity": "bar",
+        "brewery": "various",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/lebachibouzouk/",
+        "contact:instagram": "https://www.instagram.com/bachibouzoukvevey",
+        "cuisine": "bar",
+        "email": "bachibouzoukvevey@gmail.com",
+        "internet_access": "yes",
+        "name": "Le Bachibouzouk",
+        "opening_hours": "Mo 16:00-22:00; Tu-We 10:00-22:00; Th-Sa 10:00-24:00",
+        "payment:Leman": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+41 21 558 43 23",
+        "toilets": "yes",
+        "website": "https://www.bachibouzouk.ch/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8388135,
+          46.4607894
+        ]
+      },
+      "id": "node/3727878239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3728142407",
+        "amenity": "bar",
+        "name": "Sidewalk Café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6350269,
+          46.5259193
+        ]
+      },
+      "id": "node/3728142407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3730611473",
+        "amenity": "bar",
+        "name": "Mess des officiers",
+        "name:de": "Offiziersmesse",
+        "outdoor_seating": "yes",
+        "smoking": "isolated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3347113,
+          46.530558
+        ]
+      },
+      "id": "node/3730611473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3787938321",
+        "amenity": "bar",
+        "name": "Le Carnotzet - Bar autogéré"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6480764,
+          46.540437
+        ]
+      },
+      "id": "node/3787938321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3964645703",
+        "addr:housenumber": "36",
+        "addr:street": "Rue Nationale",
+        "amenity": "bar",
+        "contact:phone": "+33 4 50 76 71 39 ",
+        "name": "Chez Rose Marie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8021448,
+          46.3936589
+        ]
+      },
+      "id": "node/3964645703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4081396892",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.444913,
+          46.4766541
+        ]
+      },
+      "id": "node/4081396892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4127553563",
+        "amenity": "bar",
+        "name": "Le 20",
+        "shop": "wine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6306341,
+          46.5184541
+        ]
+      },
+      "id": "node/4127553563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4130297963",
+        "addr:city": "Lausanne",
+        "addr:housenumber": "57 bis",
+        "addr:postcode": "1004",
+        "addr:street": "Rue de Genève",
+        "amenity": "bar",
+        "description": "Center for Latin American Culture and more. Dance Classes, Parties, Exhibitions, Workshops.",
+        "name": "Casona Latina",
+        "operator": "Juan Correa",
+        "smoking": "outside",
+        "website": "http://www.casonalatina.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6215448,
+          46.5220043
+        ]
+      },
+      "id": "node/4130297963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4161531390",
+        "amenity": "bar",
+        "name": "Spike Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5072742,
+          46.6154104
+        ]
+      },
+      "id": "node/4161531390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4190576955",
+        "addr:city": "Lutry",
+        "addr:housenumber": "6",
+        "addr:postcode": "1095",
+        "addr:street": "Rue Verdaine",
+        "amenity": "bar",
+        "name": "Le Lustriacum",
+        "phone": "+41217910571",
+        "smoking": "outside",
+        "website": "http://www.le-lustriacum.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6857675,
+          46.5027208
+        ]
+      },
+      "id": "node/4190576955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4190617087",
+        "addr:city": "Lausanne",
+        "addr:housenumber": "17",
+        "addr:postcode": "1003",
+        "addr:street": "Rue du Port-Franc",
+        "amenity": "bar",
+        "name": "Bulldog Bar & Resto",
+        "phone": "+41213119933",
+        "smoking": "outside",
+        "website": "http://www.bulldogbar.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6266718,
+          46.5216154
+        ]
+      },
+      "id": "node/4190617087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4232065391",
+        "addr:housenumber": "5",
+        "addr:street": "Avenue de Tivoli",
+        "amenity": "bar",
+        "name": "GT's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6210302,
+          46.5210273
+        ]
+      },
+      "id": "node/4232065391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4232085290",
+        "amenity": "bar",
+        "name": "Le Saxo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6340308,
+          46.5183274
+        ]
+      },
+      "id": "node/4232085290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4319618353",
+        "amenity": "bar",
+        "name": "Caveau du Singe Vert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6864926,
+          46.5021859
+        ]
+      },
+      "id": "node/4319618353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4325153294",
+        "amenity": "bar",
+        "name": "Les Arches",
+        "website": "http://www.lesarches.ch",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6308638,
+          46.5208881
+        ]
+      },
+      "id": "node/4325153294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348465293",
+        "amenity": "bar",
+        "cuisine": "burger",
+        "name": "La Paillote",
+        "website": "https://www.restaurant-cnm.ch/la-paillote/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4973213,
+          46.5057401
+        ]
+      },
+      "id": "node/4348465293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4363290691",
+        "addr:city": "Les Avants",
+        "addr:housenumber": "7",
+        "addr:postcode": "1833",
+        "addr:street": "Route de la Poste",
+        "amenity": "bar",
+        "name": "Tramontana Café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9445482,
+          46.4536774
+        ]
+      },
+      "id": "node/4363290691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4579618090",
+        "amenity": "bar",
+        "name": "British Café"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6093234,
+          46.5119234
+        ]
+      },
+      "id": "node/4579618090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4598164799",
+        "amenity": "bar",
+        "name": "Kings Bar",
+        "opening_hours": "Mo-We 08:00-24:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6413289,
+          46.7793106
+        ]
+      },
+      "id": "node/4598164799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4619045495",
+        "amenity": "bar",
+        "name": "Le Cellier",
+        "toilets:wheelchair": "yes",
+        "website": "http://provino.ch/cellier.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6236412,
+          46.642651
+        ]
+      },
+      "id": "node/4619045495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4620596318",
+        "amenity": "bar",
+        "name": "Winemoon",
+        "opening_hours": "Mo-Sa 16:00-24:00",
+        "phone": "+41 22 361 56 26",
+        "website": "https://winemoon.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2386861,
+          46.3829579
+        ]
+      },
+      "id": "node/4620596318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4628350760",
+        "addr:city": "Sciez",
+        "addr:country": "FR",
+        "addr:housenumber": "16",
+        "addr:postcode": "74140",
+        "addr:street": "Avenue des Charmes",
+        "amenity": "bar",
+        "name": "L'Ethno",
+        "website": "https://www.facebook.com/Bar-lethno-Sciez-972207972888738/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3745363,
+          46.3314409
+        ]
+      },
+      "id": "node/4628350760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4639448806",
+        "addr:city": "Gex",
+        "addr:housenumber": "165",
+        "addr:postcode": "01170",
+        "addr:street": "Rue des Terreaux",
+        "amenity": "bar",
+        "name": "Le Tetras"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0579951,
+          46.3331858
+        ]
+      },
+      "id": "node/4639448806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4659531167",
+        "amenity": "bar",
+        "name": "Ambrozie",
+        "shop": "cannabis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2377668,
+          46.3822347
+        ]
+      },
+      "id": "node/4659531167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4665637464",
+        "amenity": "bar",
+        "name": "Excalibar",
+        "outdoor_seating": "yes",
+        "smoking": "outside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8525056,
+          46.5260937
+        ]
+      },
+      "id": "node/4665637464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4729392392",
+        "amenity": "bar",
+        "name:en": "Hotel Au Bel Aire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0169584,
+          46.3473473
+        ]
+      },
+      "id": "node/4729392392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4783298521",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7524914,
+          46.4885936
+        ]
+      },
+      "id": "node/4783298521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4822823729",
+        "amenity": "bar",
+        "name": "Lapart",
+        "phone": "+41 26 321 53 50",
+        "website": "http://lapart.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1537163,
+          46.8022163
+        ]
+      },
+      "id": "node/4822823729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4832604221",
+        "amenity": "bar",
+        "name": "6 bar",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6383304,
+          46.7801966
+        ]
+      },
+      "id": "node/4832604221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4844601223",
+        "amenity": "bar",
+        "name": "Au bon coin",
+        "name:fr": "Au bon coin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3033908,
+          46.3653275
+        ]
+      },
+      "id": "node/4844601223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4920962321",
+        "amenity": "bar",
+        "name:en": "Top Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0060591,
+          46.3428581
+        ]
+      },
+      "id": "node/4920962321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4931142021",
+        "amenity": "bar",
+        "name": "Bar Le Centre",
+        "name:fr": "Bar Le Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1363248,
+          46.5380837
+        ]
+      },
+      "id": "node/4931142021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4931142022",
+        "addr:housenumber": "344",
+        "addr:postcode": "39220",
+        "addr:street": "Rue Pasteur",
+        "amenity": "bar",
+        "name": "Bar Le Patio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0601499,
+          46.4843004
+        ]
+      },
+      "id": "node/4931142022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4962149424",
+        "amenity": "bar",
+        "name": "Bar le galopin",
+        "name:fr": "Bar le galopin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6448666,
+          46.776952
+        ]
+      },
+      "id": "node/4962149424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4962425116",
+        "addr:housenumber": "67",
+        "addr:street": "Rue de la Plaine",
+        "amenity": "bar",
+        "name": "Brasil Bar",
+        "phone": "+41 24 425 79 22",
+        "website": "http://www.brasilbar.ch/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6469391,
+          46.7767631
+        ]
+      },
+      "id": "node/4962425116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4971274821",
+        "amenity": "bar",
+        "cuisine": "deli;tapas",
+        "name": "Zeus Lounge Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5881127,
+          46.4009263
+        ]
+      },
+      "id": "node/4971274821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5029337722",
+        "amenity": "bar",
+        "name": "Colony",
+        "name:fr": "Colony"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6348961,
+          46.5184835
+        ]
+      },
+      "id": "node/5029337722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5056425290",
+        "amenity": "bar",
+        "name": "La Treille d'Or",
+        "website": "http://www.latreilledor.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0550636,
+          46.2985565
+        ]
+      },
+      "id": "node/5056425290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5056464865",
+        "amenity": "bar",
+        "name": "Mini Pub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0544688,
+          46.2980872
+        ]
+      },
+      "id": "node/5056464865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5056464869",
+        "amenity": "bar",
+        "name": "Moon Boot Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0546128,
+          46.298622
+        ]
+      },
+      "id": "node/5056464869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5056513502",
+        "amenity": "bar",
+        "level": "0",
+        "name": "Le p'tit Chalet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0556945,
+          46.2959244
+        ]
+      },
+      "id": "node/5056513502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5056561113",
+        "amenity": "bar",
+        "level": "0",
+        "name": "Blues Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0563698,
+          46.2953207
+        ]
+      },
+      "id": "node/5056561113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5086450399",
+        "addr:housenumber": "1",
+        "addr:street": "Route des Frégates",
+        "amenity": "bar",
+        "contact:phone": "+33 4 50 17 33 53",
+        "name": "Balistreri Settimo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4325267,
+          46.3384601
+        ]
+      },
+      "id": "node/5086450399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5103913454",
+        "amenity": "bar",
+        "name": "Le D'Joss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5212803,
+          46.3372277
+        ]
+      },
+      "id": "node/5103913454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5167002123",
+        "amenity": "bar",
+        "name": "Angel's Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9096492,
+          46.4361968
+        ]
+      },
+      "id": "node/5167002123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5341469053",
+        "addr:housenumber": "10",
+        "addr:street": "Rue du Milieu",
+        "amenity": "bar",
+        "name": "d'Y-vins",
+        "opening_hours": "Tu-Th 10:00-21:00; Fr 10:00-22:00; Sa 08:00-21:00",
+        "phone": "+41 24 426 20 85",
+        "smoking": "outside",
+        "website": "http://www.dyvins.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6399391,
+          46.7788061
+        ]
+      },
+      "id": "node/5341469053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5457011565",
+        "amenity": "bar",
+        "name": "La Petit Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9130168,
+          46.4299449
+        ]
+      },
+      "id": "node/5457011565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5458914504",
+        "amenity": "bar",
+        "name": "Taboo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.909995,
+          46.4316498
+        ]
+      },
+      "id": "node/5458914504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5462385101",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9071714,
+          46.4381377
+        ]
+      },
+      "id": "node/5462385101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5462399722",
+        "amenity": "bar",
+        "name": "Funky Claude's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9065941,
+          46.4386014
+        ]
+      },
+      "id": "node/5462399722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5553163041",
+        "amenity": "bar",
+        "name": "Caf'Arts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6067524,
+          46.5340666
+        ]
+      },
+      "id": "node/5553163041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5590006655",
+        "addr:housenumber": "2",
+        "addr:street": "Avenue des Oiseaux",
+        "amenity": "bar",
+        "name": "Tramezzini Bar",
+        "opening_hours": "Mo-Su 06:00-19:00",
+        "phone": "+41 21 683 13 88",
+        "website": "http://www.tramezzinibar.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.629615,
+          46.5311206
+        ]
+      },
+      "id": "node/5590006655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5706095223",
+        "addr:housenumber": "81",
+        "addr:postcode": "1700",
+        "addr:street": "Rue de Lausanne",
+        "amenity": "bar",
+        "cuisine": "tapas;french;italian;coffee_shop",
+        "email": "bar-a-vins.fribourg@moevenpick.com",
+        "name": "Bar à Vins Mövenpick",
+        "name:de": "Weinbar Mövenpick",
+        "opening_hours": "Tu-We 11:30-23:00; Th-Fr 11:30-00:00; Sa 16:00-00:00",
+        "phone": "+41 26 341 00 01",
+        "website": "https://www.moevenpick-wein.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1570763,
+          46.8053286
+        ]
+      },
+      "id": "node/5706095223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5773702803",
+        "addr:city": "Nyon",
+        "addr:housenumber": "22bis",
+        "addr:postcode": "1260",
+        "addr:street": "Grand-Rue",
+        "amenity": "bar",
+        "brewery": "yes",
+        "name": "La Parenthèse",
+        "opening_hours": "Th 20:00-01:00; Fr-Sa 20:00-02:00",
+        "outdoor_seating": "no",
+        "smoking": "outside",
+        "website": "http://www.bar-laparenthese.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2388087,
+          46.3817799
+        ]
+      },
+      "id": "node/5773702803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5824828055",
+        "addr:housenumber": "31",
+        "addr:postcode": "1700",
+        "addr:street": "Rue Pierre-Aeby",
+        "amenity": "bar",
+        "name": "Art-Buvette",
+        "name:en": "Art-Buvette",
+        "opening_hours": "Tu-Fr 16:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1597732,
+          46.807276
+        ]
+      },
+      "id": "node/5824828055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5929275785",
+        "addr:housenumber": "13",
+        "addr:street": "Rue des Côtes-de-Montbenon",
+        "amenity": "bar",
+        "email": "histoiresurbaines@gmail.com",
+        "name": "La Datcha",
+        "opening_hours": "Th 20:00-00:00; Fr, Sa 20:00-02:00",
+        "phone": "+41 21 311 51 94",
+        "website": "https://la-datcha.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6259539,
+          46.5212521
+        ]
+      },
+      "id": "node/5929275785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5933494955",
+        "amenity": "bar",
+        "name": "Punk Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6299053,
+          46.5210941
+        ]
+      },
+      "id": "node/5933494955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5949713429",
+        "addr:city": "Lausanne",
+        "addr:housenumber": "8",
+        "addr:postcode": "1004",
+        "addr:street": "Rue du Port-Franc",
+        "amenity": "bar",
+        "cocktails": "yes",
+        "email": "barberousse.lausanne@gmail.com",
+        "name": "Barberousse",
+        "opening_hours": "Mo-Th, Su 18:00-01:00; Fr, Sa 18:00-02:00",
+        "phone": "+41 21 323 07 07",
+        "smoking": "isolated",
+        "website": "http://www.barberousse.com/reseau/lausanne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6281704,
+          46.5214885
+        ]
+      },
+      "id": "node/5949713429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6001015895",
+        "amenity": "bar",
+        "name": "Duke's Bar",
+        "website": "https://www.dukes-bar.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6355067,
+          46.5206474
+        ]
+      },
+      "id": "node/6001015895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6001015896",
+        "amenity": "bar",
+        "name": "Le Perroquet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6347906,
+          46.52072
+        ]
+      },
+      "id": "node/6001015896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6057288124",
+        "amenity": "bar",
+        "name": "Mi Bar Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6320461,
+          46.5211854
+        ]
+      },
+      "id": "node/6057288124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6223512785",
+        "amenity": "bar",
+        "name": "L'Etabli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3209083,
+          46.3218054
+        ]
+      },
+      "id": "node/6223512785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6237159939",
+        "addr:city": "Leysin",
+        "addr:postcode": "1854",
+        "addr:street": "SnowPark",
+        "amenity": "bar",
+        "brewery": "yes",
+        "name": "Freestyle Bar",
+        "note": "Open in winter",
+        "opening_hours": "Mo-Su 09:30-16:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0020934,
+          46.3644074
+        ]
+      },
+      "id": "node/6237159939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6237207228",
+        "addr:city": "Leysin",
+        "addr:housenumber": "8",
+        "addr:postcode": "1854",
+        "addr:street": "Route du Belvédère",
+        "amenity": "bar",
+        "brewery": "yes",
+        "name": "Cable Bar",
+        "note": "Open in winter",
+        "outdoor_seating": "yes",
+        "phone": "+41 79 769 57 19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.017511,
+          46.3474714
+        ]
+      },
+      "id": "node/6237207228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6237241394",
+        "amenity": "bar",
+        "brewery": "no",
+        "name": "Buvette",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.672192,
+          46.5123409
+        ]
+      },
+      "id": "node/6237241394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6239553026",
+        "addr:housenumber": "300",
+        "addr:street": "Route des Frasses",
+        "amenity": "bar",
+        "contact:phone": "+33 4 50 73 51 93",
+        "contact:website": "http://tabacledenbar.fr/",
+        "name": "Eden Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.79195,
+          46.2944485
+        ]
+      },
+      "id": "node/6239553026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6240422880",
+        "amenity": "bar",
+        "contact:phone": "+33 4 50 73 03 33",
+        "name": "Café Franco-Suisse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7205416,
+          46.2806968
+        ]
+      },
+      "id": "node/6240422880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6424179560",
+        "addr:city": "Vevey",
+        "addr:country": "CH",
+        "addr:housenumber": "33",
+        "addr:postcode": "1800",
+        "addr:street": "Rue du Simplon",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/nonstopvevey/",
+        "cuisine": "burger",
+        "description": "Burger Bar",
+        "name": "Non-Stop",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "phone": "+41 21 922 35 68"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8441478,
+          46.4606212
+        ]
+      },
+      "id": "node/6424179560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6464693670",
+        "addr:city": "Lausanne",
+        "addr:housenumber": "6",
+        "addr:postcode": "1003",
+        "addr:street": "Place de l'Europe",
+        "amenity": "bar",
+        "email": "hotel@mad-house.ch",
+        "name": "MadHouse",
+        "phone": "+41 21 340 69 99",
+        "website": "http://www.mad-house.ch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6301185,
+          46.520291
+        ]
+      },
+      "id": "node/6464693670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6487811286",
+        "amenity": "bar",
+        "name": "Domaine de la Côte d'Or"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2258002,
+          46.2762394
+        ]
+      },
+      "id": "node/6487811286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6521278953",
+        "amenity": "bar",
+        "name": "I Like Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6427394,
+          46.806976
+        ]
+      },
+      "id": "node/6521278953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6546794056",
+        "amenity": "bar",
+        "name": "La Dérivée",
+        "website": "https://www.laderivee.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6421448,
+          46.7876117
+        ]
+      },
+      "id": "node/6546794056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6574739630",
+        "amenity": "bar",
+        "name": "Cercle Italien"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3781294,
+          46.712485
+        ]
+      },
+      "id": "node/6574739630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6631280786",
+        "amenity": "bar",
+        "name": "Phœnix bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.928297,
+          46.2783927
+        ]
+      },
+      "id": "node/6631280786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6699437581",
+        "addr:city": "Chevroux",
+        "amenity": "bar",
+        "name": "La Trappe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8982931,
+          46.8979031
+        ]
+      },
+      "id": "node/6699437581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6704112440",
+        "addr:housenumber": "20",
+        "addr:street": "Grande Rue",
+        "amenity": "bar",
+        "contact:phone": "+33 4 50 71 27 87",
+        "name": "La Régence",
+        "opening_hours": "Mo-Sa 08:00-23:00; Su 08:00-12:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4791099,
+          46.3715336
+        ]
+      },
+      "id": "node/6704112440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6744588056",
+        "addr:city": "Morges",
+        "addr:postcode": "1110",
+        "addr:street": "Rue des Charpentiers",
+        "amenity": "bar",
+        "brewery": "yes",
+        "name": "La Rive Lounge Bar",
+        "outdoor_seating": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4964599,
+          46.5088369
+        ]
+      },
+      "id": "node/6744588056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6761507982",
+        "addr:housenumber": "1226",
+        "addr:street": "Route de Thonon",
+        "amenity": "bar",
+        "name": "Café Vulliez",
+        "opening_hours": "Mo-We,Fr-Sa 09:00-14:00,18:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5649439,
+          46.3241031
+        ]
+      },
+      "id": "node/6761507982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6828270495",
+        "amenity": "bar",
+        "name": "V & B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4370656,
+          46.3504722
+        ]
+      },
+      "id": "node/6828270495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6881394676",
+        "amenity": "bar",
+        "name": "Le Vème",
+        "phone": "+41 21 922 40 32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8426282,
+          46.4631924
+        ]
+      },
+      "id": "node/6881394676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7090817189",
+        "amenity": "bar",
+        "contact:website": "http://leslacustres.ch/",
+        "name": "Le Ripper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8352352,
+          46.8465123
+        ]
+      },
+      "id": "node/7090817189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7115049590",
+        "amenity": "bar",
+        "name": "Atlantic Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8385653,
+          46.4637316
+        ]
+      },
+      "id": "node/7115049590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7160273930",
+        "addr:housenumber": "3",
+        "amenity": "bar",
+        "name": "Le Salon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5932151,
+          46.400328
+        ]
+      },
+      "id": "node/7160273930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7160273939",
+        "addr:housenumber": "1",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "L'Optimist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5934505,
+          46.4003321
+        ]
+      },
+      "id": "node/7160273939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7191618501",
+        "addr:city": "Bulle",
+        "addr:housenumber": "34",
+        "addr:postcode": "1630",
+        "addr:street": "Rue de Vevey",
+        "amenity": "bar",
+        "brewery": "various",
+        "min_age": "16",
+        "name": "Centre Culturel Ebullition",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0542907,
+          46.6161329
+        ]
+      },
+      "id": "node/7191618501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7230847679",
+        "addr:city": "Yverdon-les-Bains",
+        "addr:housenumber": "11",
+        "addr:postcode": "1400",
+        "addr:street": "Rue des Remparts",
+        "amenity": "bar",
+        "name": "Legend Bar",
+        "opening_hours": "Mo-We 07:00-24:00, Th 07:00-01:00, Fr,Sa 07:00-02:00, Su 08:00-24:00",
+        "website": "https://legend-bar.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.640638,
+          46.7795885
+        ]
+      },
+      "id": "node/7230847679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7346945502",
+        "amenity": "bar",
+        "contact:website": "https://www.facebook.com/meraki.lausanne/",
+        "name": "Meràki"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6338556,
+          46.5244126
+        ]
+      },
+      "id": "node/7346945502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7368993763",
+        "amenity": "bar",
+        "name": "Le Gaulois"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0238028,
+          46.517997
+        ]
+      },
+      "id": "node/7368993763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7671643356",
+        "addr:city": "Courvières",
+        "addr:housenumber": "3",
+        "addr:postcode": "25560",
+        "addr:street": "Rue du Château d'Eau",
+        "amenity": "bar",
+        "name": "Chez Den's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1109771,
+          46.8693607
+        ]
+      },
+      "id": "node/7671643356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7681112605",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4561097,
+          46.4791111
+        ]
+      },
+      "id": "node/7681112605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7737158885",
+        "addr:housenumber": "7",
+        "addr:street": "Rue Philippe-François-de-Langallerie",
+        "amenity": "bar",
+        "name": "Vintage Wine Bar",
+        "website": "http://vintagewinebar.ch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6382079,
+          46.5201661
+        ]
+      },
+      "id": "node/7737158885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7744831801",
+        "amenity": "bar",
+        "name": "FMR Lounge Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.838738,
+          46.8524091
+        ]
+      },
+      "id": "node/7744831801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7883588285",
+        "amenity": "bar",
+        "name": "Grand Rue 13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6845419,
+          46.5026933
+        ]
+      },
+      "id": "node/7883588285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7914061132",
+        "amenity": "bar",
+        "brewery": "Wittekop;La Trappe;Orval",
+        "brewery:note": "La trappe",
+        "internet_access": "yes",
+        "name": "Le Bordu Carré",
+        "website": "https://lecarre-vevey.ch/le-bordu-carre/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8432888,
+          46.4584718
+        ]
+      },
+      "id": "node/7914061132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7914061133",
+        "amenity": "bar",
+        "name": "Le Bardu Carré",
+        "website": "https://lecarre-vevey.ch/le-bardu-carre/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8433437,
+          46.4586303
+        ]
+      },
+      "id": "node/7914061133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7942441185",
+        "amenity": "bar",
+        "name": "Vedetts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3582583,
+          46.3498543
+        ]
+      },
+      "id": "node/7942441185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7978839441",
+        "amenity": "bar",
+        "name": "Le Phare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3063924,
+          46.8046174
+        ]
+      },
+      "id": "node/7978839441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7985876081",
+        "amenity": "bar",
+        "name": "Le Kiosque",
+        "operator": "Alimentarium",
+        "outdoor_seating": "yes",
+        "website": "https://www.alimentarium.org/fr/les-espaces/cafe-restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.846081,
+          46.4583234
+        ]
+      },
+      "id": "node/7985876081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8060373213",
+        "amenity": "bar",
+        "name": "Brasy Bar Pub Scuncio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8366182,
+          46.4667724
+        ]
+      },
+      "id": "node/8060373213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8060373215",
+        "amenity": "bar",
+        "name": "Trebava"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8371157,
+          46.4664223
+        ]
+      },
+      "id": "node/8060373215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8228567209",
+        "amenity": "bar",
+        "name": "Black Lodge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6376087,
+          46.7798513
+        ]
+      },
+      "id": "node/8228567209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8396690317",
+        "addr:housenumber": "3",
+        "addr:street": "Rue du Temple",
+        "amenity": "bar",
+        "name": "Piccadilly"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1533312,
+          46.8046153
+        ]
+      },
+      "id": "node/8396690317"
+    }
+  ]
+}
