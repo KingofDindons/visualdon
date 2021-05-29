@@ -1,0 +1,50 @@
+<html>
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+</style>
+
+<body>
+    <canvas id="mon-dessin" width="900" height="500"></canvas>
+    <script>
+
+        const canvas = document.getElementById('mon-dessin')
+        const context = canvas.getContext('2d')
+
+
+
+
+        context.fillStyle = 'turquoise'
+        context.fillRect(0, 0, 1000 / 2, 5000 / 2);
+
+        context.fillStyle = 'blue'
+        context.fillRect(0, 0, 1000 / 2, 600 / 2);
+
+        context.beginPath()
+        context.arc(10, 10, 200/ 3, 0, Math.PI * 2)
+        context.fillStyle = 'gold'
+        context.fill()
+
+        context.beginPath()
+        context.arc(300, 400, 120/ 3, 0, Math.PI * 1)
+        context.fillStyle = 'brown'
+        context.fill()
+
+        context.fillStyle = 'black'
+        context.fillRect(300, 360, 3, 40);
+
+        context.fillStyle = 'white'
+        context.fillRect(270, 360, 30, 20);
+
+
+
+
+
+
+    </script>
+</body>
+
+</html>
