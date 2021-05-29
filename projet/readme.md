@@ -2,9 +2,9 @@
 
 #### 16.04.2021
 
-Décision de faire le travail en groupe de 2.
+Décision de faire le travail en groupe de 2 avec Nathan Fourel.
 
-Décision de faire le travail sur les figurines et la puissance de celle-ci de jeux "Dofus"
+Le projet porte sur les éléments et classes du jeu vidéo DOFUS. l'idée est de raconter l'histoire de la création d'un personnage et le chemin qu'il devra parcourir pour arriver au niveau ultime : le niveau 200 !
 
 
 Le dossier du projet se trouve ici :
